@@ -1,10 +1,3 @@
----
-title: "Beginner-Friendly WordPress Design Learning Path"
-date: 2025-09-28
-description: "A step-by-step roadmap to learn WordPress design, build a portfolio website, and document progress for career growth in EdTech operations and course design."
-tags: ["WordPress", "Web Design", "Learning Path", "Portfolio", "EdTech"]
-draft: false
----
 
 # 🎯 Beginner-Friendly WordPress Design Learning Path
 
@@ -70,14 +63,6 @@ Install plugins, add a contact form, and optimize your site for SEO.
 - Make the site responsive and SEO-friendly.  
 - Add security and backup systems.  
 
-✅ **Practical Task:**  
-Build and deploy your personal site at **muntasirislam.com**.  
-
-💡 Document the process in a **GitHub repo** with:  
-- `README.md` → Learning path & progress.  
-- `project-plan.md` → Website planning.  
-- `screenshots/` → Before/after images.  
-- `final-link.txt` → Live portfolio site URL.  
 
 ---
 
@@ -99,7 +84,7 @@ Create a demo online course page using Tutor LMS to showcase your **EdTech manag
 
 ## ✨ Final Outcome
 By completing this roadmap, you’ll have:  
-- A **live portfolio website** (muntasirislam.com).  
+- A **live portfolio website**  
 - A **documented GitHub repo** showing your learning & projects.  
 - Hands-on experience in WordPress design, SEO, and EdTech integrations.  
 
