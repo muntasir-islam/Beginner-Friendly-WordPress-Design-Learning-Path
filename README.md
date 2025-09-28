@@ -85,7 +85,6 @@ Create a demo online course page using Tutor LMS to showcase your **EdTech manag
 ## ✨ Final Outcome
 By completing this roadmap, you’ll have:  
 - A **live portfolio website**  
-- A **documented GitHub repo** showing your learning & projects.  
 - Hands-on experience in WordPress design, SEO, and EdTech integrations.  
 
 ---
